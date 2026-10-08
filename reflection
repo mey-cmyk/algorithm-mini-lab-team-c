@@ -1,0 +1,25 @@
+Individual reflection
+## Aulia Rameyza
+My main contribution:
+I built and tested the BFS vs DFS experiment, including making the program interactive so the graph and starting node can be changed.
+
+The algorithm I understand best:
+Insertion Sort, because I find its way of sorting things step by step into the correct order simple and effective.
+
+The algorithm that was most difficult:
+TSP, especially understanding why my teammate’s implementation was different from a simple route comparison. I learned that the code uses a nearest-neighbor/greedy approach, so it finds a route but does not necessarily guarantee the optimal route.
+
+Something my teammate taught me:
+My teammate’s TSP implementation helped me understand how an algorithm can be made more interactive by allowing the user to input the number of cities and distances instead of hard-coding the data.
+Something AI helped me understand:
+AI helped me understand the difference between BFS and DFS, especially how BFS uses a queue and explores level by level, while DFS goes deeper before backtracking.
+
+One thing AI gave me that I had to check:
+I had to check whether the AI-generated BFS/DFS code actually worked with different graph inputs and whether the traversal results matched my predictions.
+
+GitHub Issue I worked on:
+BFS vs DFS Experiment with Modified Graph — testing how changing the graph affects the traversal order.
+
+Pull Request / Commit I contributed:
+I contributed the BFS vs DFS implementation and interactive graph input, including commits for adding the traversal and making the experiment interactive.
+
