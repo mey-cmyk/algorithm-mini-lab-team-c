@@ -1,0 +1,15 @@
+Prompt :
+make me a full code for bfs vs dfs then explain me the code part by part
+AI helped us with:
+write the code
+explain the code
+explain the differences between bfs and dfs
+We changed:
+the input
+We tested:
+the simple graph  from the ppt and my own graph
+Result:
+bfs is visit the node in order then dfs is visit node deeper and deeper before back to the neighbor beside it
+bfs is good for find the neaerst way and dfs is  good for exploration
+
+
